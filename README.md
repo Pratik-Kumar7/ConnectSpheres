@@ -1,2 +1,2 @@
-# Chat_App
-Chat_App
+# ConnectSphere
+Instant Messaging Platform
